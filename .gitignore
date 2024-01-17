@@ -1,0 +1,8 @@
+Binaries/
+Build/
+*_BuiltData.uasset
+Saved/
+Intermediate/
+DerivedDataCache/
+WindowsNoEditor/
+Windows/
