@@ -10,9 +10,9 @@
 - where you packaged your project there should be a `Windows\pseudoregalia\Content\Paks` folder
 - pak chunk 1 is your outfit by default
 - rename the costume chunk to what you renamed `new` to
-- place in outfits folder
-- run wardrobe extender
-- it should now be in your wardrobe!
+- place in mods folder
+- install [attire ui overhaul](https://www.nexusmods.com/pseudoregalia/mods/8) if you haven't already
+- you should see your creation in all its glory!
 
 # Custom Textures
 - go to `Content/MatTex/Materials/Characters`
