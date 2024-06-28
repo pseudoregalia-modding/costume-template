@@ -1,10 +1,8 @@
 # Usage
+- open `Content/Meshes/Characters/new.blend` in blender and edit
+- export as fbx over `Content/Meshes/Characters/new.fbx`
 - open in unreal engine 5.1 (other versions won't work in-game)
-- go to `Content/Meshes/Characters`
-- right-click `new` and click export in asset actions to export mesh to fbx
-- import to blender or your preferred modelling software
-- make your edits and export back to fbx
-- open `new` and reimport with the new fbx (try to match material slots)
+- open `Content/Meshes/Characters/new` and reimport with the new fbx (try to match material slots)
 - rename `new` to whatever you want
 - package your project for windows
 - where you packaged your project there should be a `Windows\pseudoregalia\Content\Paks` folder
